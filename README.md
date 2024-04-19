@@ -27,7 +27,7 @@ Step 3️⃣ --> Switch Real time protection off
 ### Running the program, and usage
           
 step 1️⃣ --> Run the AmaxPNB(version).exe
-step 2️⃣ --> Open Growtopia
+step 2️⃣ --> Open Growtopia            
 step 3️⃣ --> Pile up farmables in a big pile, or use a magplant for example (for longer farming sessions more than just a few blocks, you can do with less also)       
 step 4️⃣ --> /set to choose a block to place and break from your inventory               
 step 5️⃣ --> /farm to start placing and breaking (2 blocks in the direction your facing).             
