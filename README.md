@@ -41,4 +41,4 @@ Youtube showcase: https://www.youtube.com/watch?v=3SXCUe2DaE4
 Enjoy effortless farming!
 
 // 19.4.2024                                
-⚡ Updated for Growtopia V4.53 ⚡
+⚡ Still works in Growtopia V4.53 ⚡
