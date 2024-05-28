@@ -1,6 +1,6 @@
 # Amax Autofarm V4.40
                         
-⚡ Works in Growtopia V4.55 ⚡                                     
+⚡ Works in Growtopia V4.57 ⚡                                     
 Updated to V4.40 ▶️ 19.03.24
 
 ➡️ NEW IN VERSION V4.40 ⬅️                                            
@@ -40,5 +40,5 @@ Youtube showcase: https://www.youtube.com/watch?v=3SXCUe2DaE4
           
 Enjoy effortless farming!
 
-// 10.5.2024                                
-⚡ Updated for Growtopia V4.55 ⚡
+// 29.5.2024                                
+⚡ Updated for Growtopia V4.57 ⚡
