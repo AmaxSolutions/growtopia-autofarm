@@ -40,5 +40,5 @@ Youtube showcase: https://www.youtube.com/watch?v=3SXCUe2DaE4
           
 Enjoy effortless farming!
 
-// 11.6.2024                                
+// 13.6.2024                                
 ⚡ Updated for Growtopia V4.58 ⚡
